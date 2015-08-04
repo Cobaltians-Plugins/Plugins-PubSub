@@ -1,0 +1,9 @@
+[submodule "Android"]
+	path = Android
+	url = git://github.com/cobaltians-plugins/plugins-PubSub-Android.git
+[submodule "iOS"]
+	path = iOS
+	url = git://github.com/cobaltians-plugins/plugins-PubSub-iOS.git
+[submodule "Web"]
+	path = Web
+	url = git://github.com/cobaltians-plugins/plugins-PubSub-Web.git
