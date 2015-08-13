@@ -67,7 +67,7 @@ If the channel does not exist, it does nothing.
 
 ## Installing the plugin
 
-* import the plugin to your project as explained [here](https://github.com/cobaltians/cobalt/wiki/Using-plugins)
+* import the plugin to your project as explained [here](https://github.com/cobaltians/cobalt/wiki/Plugins-usage)
 * Add the cobalt.pubsub.js to your web JS folder
 * Add an html link to the cobalt.pubsub.js plugin script after the cobalt link in the HEAD tag
 * Use as described here.
