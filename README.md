@@ -1,4 +1,4 @@
-#PubSub
+# PubSub
 
 
 PubSub plugin allows you to send messages between Cobalt WebViews of the same app.
